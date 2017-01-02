@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "386522480268",
+    "firebase_url": "https://ezpay-78b2f.firebaseio.com",
+    "project_id": "ezpay-78b2f",
+    "storage_bucket": "ezpay-78b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386522480268:android:cf55a43e8aae7665",
+        "android_client_info": {
+          "package_name": "magia.af.ezpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386522480268-udj4atobaoaep05e0ahmgeg5idos9bn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "magia.af.ezpay",
+            "certificate_hash": "19B3E67973CE3C9302970E6296118D722015A380"
+          }
+        },
+        {
+          "client_id": "386522480268-6k9pe8d6su2m9mf3d92ap9vnem9olk1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "magia.af.ezpay",
+            "certificate_hash": "493EFF95030E862673F0982A96B9D15D3E51FA33"
+          }
+        },
+        {
+          "client_id": "386522480268-834a0hesa8ppftpafqm55psir2v2m8da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "magia.af.ezpay",
+            "certificate_hash": "6CAB6F6453FC0D4CE82C5996AA482E319136F3F6"
+          }
+        },
+        {
+          "client_id": "386522480268-pfm8ee0rsukqk6pob8fmq19dhmi9eniu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIuhbMaprHuttyPk0WTVUv_clmy4lVJ8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386522480268-pfm8ee0rsukqk6pob8fmq19dhmi9eniu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

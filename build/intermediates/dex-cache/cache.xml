@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_297d8cf1484ef325edbeba7c56b1a07e2088c8a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_a2860a3c291b559a048c4c408e905e97d1179689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_3874f2045e72904aca5884be5c676995088692ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_1fc49b9409d055ae2d09929a86b2b4a49c23c5fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_e37e3144a1b7bd9392706a9dd0ef072de685173d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_a34b9ed5c1ee6747b27ebd5a5d50002f51950d92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_436633774083367bd8660ee24aa0a5b40fbe4284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_bab32925431a17a4df989e236d6da5e475f27b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_cf27f8bbadc2e8c19f899a2b2fb1bd058a58ed71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_5b204218d5915a82a5a2db0c6cd13be238921baf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_85f884f143a81481a3a46a3139ef151fcd58d4b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.pkmmte.view\circularimageview\1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pkmmte.view-circularimageview-1.1_19cb9aad6a99b54ef10a9d0ba357721e3bfb05de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ce12395da4673e48c944fd2c10637de9786561e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_35c2f2cb24e834e6a5cfcc495d4e3b6cd35f23bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\customtabs\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b24e0a6d84a759f2094cbb27afd5ac9cb30275c9">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-24.0.0_d2b36169ac2acaa2b4e1a4c8a88052248834b4f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_073309ece006ad89f99e05bc2e6501789974edd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7961e91810ecdedc4a6d9df56bb14968f5d720e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_2acbf6a10cd292aaac6d0fcc7528d064df53e28b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8e690c178e5f74df80e77eab279a93da93651d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_d53e7b1674409325266bfcf679632e49999df7c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_27ac3c26e4695eaba5bbe9a3c30589b736266d14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidSDK\New_Studio_SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3f889efffd03fd64fe9a2f6ca010c7943d2bad6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_7eb42cba79c6d58ac60a633c2b3193b66d2679a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_e24d9afcca8be650f04c4ceda8d5b20519ee0e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_3eab6f9601327f89e2b8c349f91968d1826203c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_73aef85e120cb495b364c729b359572610403b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_21c0e7fbdfd976d6d8c7c213bc2caa49efc0f361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_2e1ef3a2f0064b1b18d41b2701d45a4c3a00ffd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c72f499551f28d1d3450dc5c6ffb0bf6da1c8e52">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c8276c176599f9d85c2841523d4f661e76a482db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f5db1e227d8afdcdcbfeb8077aeea31d39ec8ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_4a78ca19f6f84c6881416c4e2ec1ea08e5ea5ff7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dc791f540f0d81089c200422f818d01dd9b3dc18">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1246adcace5ba056f385a65f93c1b835d964b354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_5194dc21ad025b70462cd65efbdae33432393e28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\ca.barrenechea.header-decor\header-decor\0.2.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6d2e810bfb2bd0cc54c152bd07997da93d053c53">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\ca.barrenechea.header-decor-header-decor-0.2.8_3f9e1182e9ab3ff5d122a36a64dbb07b2feb6f05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_a9a91c99b105b8a9f6118168dde0a2a1895e54ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_f261efd3794e0055ec881312785f76a641ae0edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b871333a030fa432418cdb48be1089cbea88da1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_b5afcd105cec8bd3f9fe54e1d6a6bc44c541db78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_0bd431e4b1bb35a89f23c91f670588b2efb041cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_7c1637af54395bbfaf54fa2c4d3fcfac8c5e0ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_f3aa3332d64b12a3f09984ac3058beff26709b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_e69bd2755e765414e31d78818243c6c633f7ef32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_ac246e0a8cdb4e871139209b756b16eaf003967c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6a38695b4221a91f7811400ea99bd8c3c3de2ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_c6bf0608f530dcd5b412cc7487a12a2207852305\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_702519a6b3a49d899339e3b5b27c7537f49b1eac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_67b2b975e562e64b77a480881940113e234a809c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\libs\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.7.0_76dbe1f4068d0572468024fd48e8428f27c97fc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_671cfbbbdb6b3a4d2ddc53eb241f2472a3dd390c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_51513f11683416bd735def851fb59cbfe02602a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_0543d5293af196a428dd5d5b68f1bbe8e7d738d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_4e94775a70c56e52a485b13e8ebb299c00a66334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_e4e491cc721364e99446f7a931e608a080f67359\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_84dd090b195cba7050dcc9200e4cd40582c43719\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_d13315697803f8667c8481bb1e96e6d53e66d7f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_4c9352fcb0fc9eb82240cca6dd5fba49747d25f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_d943b312ba0b12973762a6519706159e28dc4992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_41f183d25f7ecacb1fb4952196e13586d7644fa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-core-1.9_bbca04c25ed08e5a2ef23ad13f147993317a304f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_5121aaa69a65a120af827d0cbc7c50783f5c6de4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_2073f3f2638d3f6f76b75ed2dde7479642bf174b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_62b2d6edd40a9ac5c2cffb9661af2f2419ea98fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_883d230308055677e4e71c26bbbeb31ff809a273\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_74d639117be38e9a549866e3f123e27f0bd9d9c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_cd7792a9bc6694696b68a5dae177b0a61134cc4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_4ec665e7d0fe5c831770e98195003eb8a3aed2a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_d3495539e1872d6972b9dfb550a280a0281e5dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_71bbb5817354c0e3e064f18c3a529a4a900fce7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_1ec5d4259074d9472bb7a85b0ab7a59f497e56ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_f9058a01ae942243db54159fed3c2c98b3102469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_a127d50c28ace1ddbecb39b8ceed059a6b78f16f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_4914c23398fde898c4d52465e770693b8b11529c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_933c454b0e44c85bfd10cf2152c0197d0ba09ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_1c7b1ed061203200cdce27e67af0f2657da773d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zxing\1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-zxing-1.9_75c7c66659b34b9b63fb28755a5149da8ae7dc75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.2.0_23b596ce5a3eee7d5739669472bc6cd17987ebde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_0b6008f1d511aff62c0d446c7d47292028613b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_68eceb7fba470fe717adf3bdb9bc4039dc48a47d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_98fb92ed0f459e801581cfc9ea13fb4e0aa325cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f55fc594cc158c151495a01bec8efce57047d96b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_749359fe0110bf9f5b524c9fb0dbf131e4d8d4ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="F:\Dev\AndroidProject\EZpay2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_69c6c4cd6f57c432de5b3c66a39d928ad8cb2cdc\classes.dex" />
+    </item>
+
+</items>

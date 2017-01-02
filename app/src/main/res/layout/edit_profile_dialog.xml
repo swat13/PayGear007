@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_margin="10dp"
+        android:hint="لطفا اسم خود را وارد کنید"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/edtInputUserName"/>
+    <Button
+        android:text="تایید"
+        android:background="#6db312"
+        android:textColor="#ffffff"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:id="@+id/btnConfirm"
+        android:layout_below="@+id/edtInputUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
